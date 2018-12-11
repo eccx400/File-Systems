@@ -1,0 +1,3 @@
+1348.294 user 6783.941 system 2:15.14 elapsed 99%CPU
+1325.621 user 6764.842 system 2:14.51 elapsed 100%CPU
+1355.890 user 6919.310 system 2:17.55 elapsed 99%CPU
